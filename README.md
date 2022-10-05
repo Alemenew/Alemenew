@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alemenew
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on a software engineers
+- 💞️ I’m looking to collaborate with software engineers
 - 📫 you can reach me <alemenewendawek@gmail.com>
 
 <!---
