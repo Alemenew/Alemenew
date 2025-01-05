@@ -1,6 +1,6 @@
 # Hi there, I'm Alemenew Endawek 👋
 
-I'm a passionate UI/UX Designer and Front-End Developer focused on creating intuitive and visually appealing digital experiences. I love turning complex problems into simple, beautiful, and intuitive designs.
+I'm a passionate Front-End Developer focused on creating intuitive and visually appealing digital experiences. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 ## 🚀 About Me
 
